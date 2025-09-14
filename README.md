@@ -3,11 +3,11 @@ EFI for Lenovo-M710q E3-1225 V6 with OpenCore 1.0.5 for macOS Sequoia 15.6.1,bui
 
 电脑配置:
 
-CPU	Intel® Core™ E3-1225-V6
+CPU:	E3-1225-V6
 
-GPU	HD Graphics P630
+GPU:	HD Graphics P630
 
-RAM	2 * 4GB DDR4 2133Mhz
+RAM:	2 * 4GB DDR4 2133Mhz
 
 
 目前状态：
