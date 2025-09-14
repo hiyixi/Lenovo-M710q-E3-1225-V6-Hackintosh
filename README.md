@@ -1,5 +1,5 @@
 # Lenovo-M710q-E3-1225-V6-Hackintosh
-EFI for Lenovo-M710q E3-1225 V6 with OpenCore 1.0.5 for macOS Sequoia 15.6.1,build by RapidEFI-v4.0.0-Windows
+EFI for Lenovo-M710q E3-1225 V6 with OpenCore 1.0.5 for macOS Sequoia 15.6.1,build by RapidEFI-v4.0.0-Windows. Lenovo-M710q E3-1225 V6 黑苹果。
 
 电脑配置:
 
